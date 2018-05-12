@@ -1,0 +1,36 @@
+_repo: The-Very-Small-Person_29404
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Elliott, Elizabeth Shippen Green
+    alias: Green, Elizabeth Shippen
+    birthdate: 1871
+    deathdate: 1954
+    gutenberg_agent_id: '32016'
+    url: http://www.gutenberg.org/2009/agents/32016
+covers:
+- cover_type: archival
+  image_path: 29404-h/images/cover.png
+creator:
+  author:
+    agent_name: Donnell, Annie Hamilton
+    birthdate: 1862
+    gutenberg_agent_id: '1192'
+    url: http://www.gutenberg.org/2009/agents/1192
+description: ''
+gutenberg_issued: '2009-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29404'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Fiction'
+- !lcc 'PS'
+tableOfContents: Little blue overalls -- The boy -- The adopted -- Bobby unwelcome
+  -- The little girl who should have been a boy -- The lie -- The princess of make-believe
+  -- The promise -- The little lover -- The child -- The recompense.
+title: The Very Small Person
+url: http://www.gutenberg.org/ebooks/29404
